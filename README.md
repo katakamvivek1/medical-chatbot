@@ -7,7 +7,7 @@ Retrieval-Augmented Generation (RAG). Built with Flask, LangChain and a vector d
 
 ## Progress
 - [x] Day 1 — Flask app, chat UI, JSON API, tests
-- [ ] Day 2 — Load and chunk medical documents
+- [x] Day 2 — Load and chunk medical documents
 - [ ] Day 3 — RAG pipeline (embeddings + vector store + LLM)
 - [ ] Day 4 — Docker, CI (GitHub Actions), live deployment
 - [ ] Day 5 — Demo video and final README
